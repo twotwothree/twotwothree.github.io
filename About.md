@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "嘿，来啦"
-header-img: "img/plane.jpg"
+header-img: "img/seagulls.jpg"
 ---
 
 <center>
@@ -17,6 +17,6 @@ My Name is 223.
 ——223
 
 
-> stay hungry stay foolish
+> 我们的征途是星辰和大海
 
 
