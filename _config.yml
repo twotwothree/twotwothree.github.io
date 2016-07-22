@@ -1,16 +1,16 @@
 # Site settings
-title: tree
+title: two two three
 header-img: "img/autumn2.jpg"
 tagline: "吉光片羽"  
-description: "种一棵树最好的时间是十年前，其次是现在"  
+description: "我们的征途是星辰和大海"  
 url: "http://yqhdzg.github.io"
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "ChenLi"
-  email: chenlipsy@gmail.com 
-  bio: "明朝即長路 惜取此時心"
+  name: "twotwothree"
+  email: chenli012345@gmail.com 
+  bio: 
 
 # Data
 gavatar: http://7xq83p.com1.z0.glb.clouddn.com/touxiang%20(2).png
